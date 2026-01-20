@@ -118,4 +118,3 @@ db.cars.insertOne({
 
  //for displaying only specific categories of the documnets
  db.cars.find({} ,{model:1})
-
